@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(C_programming
 
-        "A 02.c")
+        "A 03.c")

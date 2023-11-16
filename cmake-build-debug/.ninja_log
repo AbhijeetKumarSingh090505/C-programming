@@ -2,7 +2,7 @@
 1	563	7212412854024286	CMakeFiles/C_programming.dir/A_02.c.obj	3290e87367df076f
 2	556	7215138739087700	CMakeFiles/C_programming.dir/A09.c.obj	924975f1a086d25e
 495	735	7217602422067784	C_programming.exe	1ba48654986cff22
-1	324	7218524384515169	build.ninja	1299bf5cd76c0fb6
+1	324	7218526996200215	build.ninja	1299bf5cd76c0fb6
 1	528	7216754946569130	CMakeFiles/C_programming.dir/A13.c.obj	a246153ad2320ec2
 1	684	7212418032386049	CMakeFiles/C_programming.dir/A_03.c.obj	11bd5056c0bcaf8b
 1	620	7213391304577890	CMakeFiles/C_programming.dir/A04.c.obj	2780d2c05c713b73
@@ -15,3 +15,6 @@
 1	539	7216752284874774	CMakeFiles/C_programming.dir/A12.c.obj	bad9fc087984f44e
 6	663	7217595068580518	CMakeFiles/C_programming.dir/A14.c.obj	a1559d1e09842101
 2	494	7217602419714015	CMakeFiles/C_programming.dir/A15.c.obj	a5d19de117ec2633
+2	409	7218526996200215	build.ninja	1299bf5cd76c0fb6
+1	489	7218527001636093	CMakeFiles/C_programming.dir/A17.c.obj	5ce7f73b301154e
+491	725	7218527003985244	C_programming.exe	1e3c8f7ddc0107f9

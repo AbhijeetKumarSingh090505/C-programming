@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(C_programming
 
-        A19.c)
+        A20.c)

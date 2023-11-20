@@ -6,4 +6,5 @@ set(CMAKE_C_STANDARD 11)
 include_directories(.)
 
 add_executable(C_programming
-        A23.c)
+
+        A24.c)

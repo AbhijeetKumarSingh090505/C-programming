@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(C_programming
 
-        B06.c)
+        "compound interest.c")

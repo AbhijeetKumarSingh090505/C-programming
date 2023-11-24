@@ -10,6 +10,4 @@ int main(){float a,b,c,d,s,ar;
     s=(a+b+c)/2;
     ar= sqrt(s*(s-a)*(s-b)*(s-c));
     printf("area of the triangle:%f",ar);
-
-
 }

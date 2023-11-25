@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(C_programming
 
-        "simple interest.c")
+        "check vowel or not.c")

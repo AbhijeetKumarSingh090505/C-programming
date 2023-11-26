@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(C_programming
 
-        "check discount or not .c")
+        "check vowel with switch case.c")

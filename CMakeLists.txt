@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(C_programming
 
-        "check vowel with switch case.c")
+        "data type determination.c")

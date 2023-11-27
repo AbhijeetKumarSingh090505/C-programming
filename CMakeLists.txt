@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(C_programming
 
-        "calculate the avg grade.c")
+        "display the day of week.c")

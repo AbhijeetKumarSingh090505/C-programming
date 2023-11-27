@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(C_programming
 
-        "data type determination.c")
+        "calculate the avg grade.c")

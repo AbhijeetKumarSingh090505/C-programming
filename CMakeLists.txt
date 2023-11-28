@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(C_programming
 
-        "check prime or composite.c")
+        "factorial of n.c")

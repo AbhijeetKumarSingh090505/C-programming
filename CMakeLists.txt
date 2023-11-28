@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(C_programming
 
-        "display the day of week.c")
+        "check prime or composite.c")

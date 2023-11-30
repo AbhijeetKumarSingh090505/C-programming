@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(C_programming
 
-        "multiplication table of n.c")
+        "check palindrome or not.c")

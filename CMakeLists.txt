@@ -7,4 +7,4 @@ include_directories(.)
 
 add_executable(C_programming
 
-        "factorial of n.c")
+        "multiplication table of n.c")

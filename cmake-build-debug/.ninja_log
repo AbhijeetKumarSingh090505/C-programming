@@ -1,10 +1,9 @@
 # ninja log v5
 1	563	7212412854024286	CMakeFiles/C_programming.dir/A_02.c.obj	3290e87367df076f
 2	556	7215138739087700	CMakeFiles/C_programming.dir/A09.c.obj	924975f1a086d25e
-241	454	7230699315188898	C_programming.exe	bf60c060ab08f235
 3	506	7221507428709301	CMakeFiles/C_programming.dir/A25.c.obj	5c0b8c639bd8635
 2	572	7220838335526569	CMakeFiles/C_programming.dir/A23.c.obj	dc8e32fb54772acb
-4	292	7230701439291605	build.ninja	1299bf5cd76c0fb6
+2	298	7448328932866387	build.ninja	1299bf5cd76c0fb6
 1	528	7216754946569130	CMakeFiles/C_programming.dir/A13.c.obj	a246153ad2320ec2
 1	684	7212418032386049	CMakeFiles/C_programming.dir/A_03.c.obj	11bd5056c0bcaf8b
 1	620	7213391304577890	CMakeFiles/C_programming.dir/A04.c.obj	2780d2c05c713b73
@@ -20,6 +19,7 @@
 1	186	7227236692935222	CMakeFiles/C_programming.dir/data_type_determination.c.obj	e9f1567b94597861
 0	503	7215983408095138	CMakeFiles/C_programming.dir/A11.c.obj	7120351acefd28e6
 1	539	7216752284874774	CMakeFiles/C_programming.dir/A12.c.obj	bad9fc087984f44e
+2	90	7230703972798853	CMakeFiles/C_programming.dir/check_palindrome_or_not.c.obj	62b456850c6d0ee5
 6	663	7217595068580518	CMakeFiles/C_programming.dir/A14.c.obj	a1559d1e09842101
 1	635	7220300237080363	CMakeFiles/C_programming.dir/A20.c.obj	48ac237bb1caacd8
 2	494	7217602419714015	CMakeFiles/C_programming.dir/A15.c.obj	a5d19de117ec2633
@@ -41,7 +41,5 @@
 0	74	7228113793454263	CMakeFiles/C_programming.dir/display_the_day_of_week.c.obj	ae0e7e096c71f35c
 3	196	7228970212676953	CMakeFiles/C_programming.dir/check_prime_or_composite.c.obj	ea98719238531f85
 3	240	7230699313167750	CMakeFiles/C_programming.dir/multiplication_table_of_n.c.obj	3ebbd709094b86b0
-1	147	7230701439291605	build.ninja	1299bf5cd76c0fb6
-1	79	7230702392045661	CMakeFiles/C_programming.dir/check_palindrome_or_not.c.obj	62b456850c6d0ee5
-2	90	7230703972798853	CMakeFiles/C_programming.dir/check_palindrome_or_not.c.obj	62b456850c6d0ee5
-91	283	7230703974501407	C_programming.exe	2f2493eb9d050fea
+11	194	7448325517411225	CMakeFiles/C_programming.dir/A_01.c.obj	e3f0eae2e3e39a28
+9	121	7448325813502103	CMakeFiles/C_programming.dir/c++1.c.obj	13a22908a09258f6

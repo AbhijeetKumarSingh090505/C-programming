@@ -5,6 +5,5 @@ set(CMAKE_C_STANDARD 11)
 
 include_directories(.)
 
-add_executable(C_programming
-
-        "check palindrome or not.c")
+add_executable(C_programming.c)
+add_executable'B04.c'

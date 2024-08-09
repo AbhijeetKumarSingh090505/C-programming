@@ -104,7 +104,8 @@
 			"sourceIndexes" : 
 			[
 				0,
-				1
+				1,
+				2
 			]
 		}
 	],
@@ -119,6 +120,11 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "c++a3.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "c++a4.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

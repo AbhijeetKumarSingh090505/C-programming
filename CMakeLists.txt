@@ -7,4 +7,5 @@ include_directories(.)
 
 add_executable(C_programmi
 
-        c++a2.cpp)
+        c++a2.cpp
+        c++a3.c)

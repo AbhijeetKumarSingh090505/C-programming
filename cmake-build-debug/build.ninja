@@ -49,8 +49,8 @@ cmake_ninja_workdir = C$:/Users/abhij/OneDrive/Documents/GitHub/C-programming/cm
 
 build cmake_object_order_depends_target_C_programmi: phony || CMakeFiles/C_programmi.dir
 
-build CMakeFiles/C_programmi.dir/A04.c.obj: C_COMPILER__C_programmi_unscanned_Debug C$:/Users/abhij/OneDrive/Documents/GitHub/C-programming/A04.c || cmake_object_order_depends_target_C_programmi
-  DEP_FILE = CMakeFiles\C_programmi.dir\A04.c.obj.d
+build CMakeFiles/C_programmi.dir/c++a3.c.obj: C_COMPILER__C_programmi_unscanned_Debug C$:/Users/abhij/OneDrive/Documents/GitHub/C-programming/c++a3.c || cmake_object_order_depends_target_C_programmi
+  DEP_FILE = CMakeFiles\C_programmi.dir\c++a3.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   INCLUDES = -IC:/Users/abhij/OneDrive/Documents/GitHub/C-programming/.
   OBJECT_DIR = CMakeFiles\C_programmi.dir
@@ -64,7 +64,7 @@ build CMakeFiles/C_programmi.dir/A04.c.obj: C_COMPILER__C_programmi_unscanned_De
 #############################################
 # Link the executable C_programmi.exe
 
-build C_programmi.exe: C_EXECUTABLE_LINKER__C_programmi_Debug CMakeFiles/C_programmi.dir/A04.c.obj
+build C_programmi.exe: C_EXECUTABLE_LINKER__C_programmi_Debug CMakeFiles/C_programmi.dir/c++a3.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_programmi.dir

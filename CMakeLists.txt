@@ -9,4 +9,5 @@ add_executable(C_programmi
 
         c++a2.cpp
         c++a3.c
-        c++a4.cpp)
+        c++a4.cpp
+        c++a5.c)

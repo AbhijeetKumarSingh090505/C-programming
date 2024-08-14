@@ -15,4 +15,5 @@ add_executable(C_programmi
         c++a7.c
         c++a8.c
         c++a9.c
-        c++a10.c)
+        c++a10.c
+        c++a11.c)

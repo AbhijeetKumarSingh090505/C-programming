@@ -80,7 +80,8 @@
 				14,
 				15,
 				16,
-				17
+				17,
+				18
 			]
 		}
 	],
@@ -134,7 +135,8 @@
 				14,
 				15,
 				16,
-				17
+				17,
+				18
 			]
 		}
 	],
@@ -243,6 +245,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
 			"path" : "c++a19.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "c++a20.c",
 			"sourceGroupIndex" : 0
 		}
 	],

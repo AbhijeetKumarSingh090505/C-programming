@@ -147,6 +147,13 @@ build CMakeFiles/C_programmi.dir/c++a18.c.obj: C_COMPILER__C_programmi_unscanned
   OBJECT_DIR = CMakeFiles\C_programmi.dir
   OBJECT_FILE_DIR = CMakeFiles\C_programmi.dir
 
+build CMakeFiles/C_programmi.dir/c++a19.c.obj: C_COMPILER__C_programmi_unscanned_Debug C$:/Users/abhij/OneDrive/Documents/GitHub/C-programming/c++a19.c || cmake_object_order_depends_target_C_programmi
+  DEP_FILE = CMakeFiles\C_programmi.dir\c++a19.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/abhij/OneDrive/Documents/GitHub/C-programming/.
+  OBJECT_DIR = CMakeFiles\C_programmi.dir
+  OBJECT_FILE_DIR = CMakeFiles\C_programmi.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C_programmi
@@ -155,7 +162,7 @@ build CMakeFiles/C_programmi.dir/c++a18.c.obj: C_COMPILER__C_programmi_unscanned
 #############################################
 # Link the executable C_programmi.exe
 
-build C_programmi.exe: C_EXECUTABLE_LINKER__C_programmi_Debug CMakeFiles/C_programmi.dir/c++a3.c.obj CMakeFiles/C_programmi.dir/c++a5.c.obj CMakeFiles/C_programmi.dir/c++a6.c.obj CMakeFiles/C_programmi.dir/c++a7.c.obj CMakeFiles/C_programmi.dir/c++a8.c.obj CMakeFiles/C_programmi.dir/c++a9.c.obj CMakeFiles/C_programmi.dir/c++a10.c.obj CMakeFiles/C_programmi.dir/c++a11.c.obj CMakeFiles/C_programmi.dir/c++a12.c.obj CMakeFiles/C_programmi.dir/c++14.c.obj CMakeFiles/C_programmi.dir/c++a15.c.obj CMakeFiles/C_programmi.dir/c++a16.c.obj CMakeFiles/C_programmi.dir/c++a17.c.obj CMakeFiles/C_programmi.dir/c++a18.c.obj
+build C_programmi.exe: C_EXECUTABLE_LINKER__C_programmi_Debug CMakeFiles/C_programmi.dir/c++a3.c.obj CMakeFiles/C_programmi.dir/c++a5.c.obj CMakeFiles/C_programmi.dir/c++a6.c.obj CMakeFiles/C_programmi.dir/c++a7.c.obj CMakeFiles/C_programmi.dir/c++a8.c.obj CMakeFiles/C_programmi.dir/c++a9.c.obj CMakeFiles/C_programmi.dir/c++a10.c.obj CMakeFiles/C_programmi.dir/c++a11.c.obj CMakeFiles/C_programmi.dir/c++a12.c.obj CMakeFiles/C_programmi.dir/c++14.c.obj CMakeFiles/C_programmi.dir/c++a15.c.obj CMakeFiles/C_programmi.dir/c++a16.c.obj CMakeFiles/C_programmi.dir/c++a17.c.obj CMakeFiles/C_programmi.dir/c++a18.c.obj CMakeFiles/C_programmi.dir/c++a19.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_programmi.dir
